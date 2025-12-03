@@ -69,7 +69,7 @@ Artifacts created:
 - feature_names.pkl
 
 ## 🔎 Making Predictions:
-        Run the training script:
+Run the training script:
 
         ```bash
         python train_models.py
@@ -106,4 +106,5 @@ You can also adapt predict.py to use extract_features(url) for real-time URL che
 **Developed by:** MHB Shimla  
 **Location:** Sylhet, Bangladesh  
 **Focus:** Robust, modular, and professional ML systems for phishing detection.
+
 
