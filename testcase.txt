@@ -1,0 +1,14 @@
+Fake / Phishing‑Style Examples:
+
+http://paypa1.com/login
+http://micros0ft-support.net/account
+http://bankofamerica-login.xyz/secure
+http://secure-update.amazon.verify-login.ru
+
+
+Legitimate Website Links (Safe to Visit):
+
+https://www.microsoft.com
+https://www.paypal.com
+https://www.amazon.com
+https://www.bankofamerica.com

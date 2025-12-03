@@ -1,0 +1,21 @@
+It includes all the dependencies your phishing detection system needs:
+
+pandas
+numpy
+scikit-learn
+requests
+beautifulsoup4
+python-whois
+
+📌 Notes
+✅These are the core libraries used in your train_models.py, predict.py, and extract_features.py.
+✅If you later add visualization or debugging tools, you might also include:
+matplotlib
+seaborn
+
+- To install everything at once:
+pip install -r requirements.txt
+
+
+
+ 
